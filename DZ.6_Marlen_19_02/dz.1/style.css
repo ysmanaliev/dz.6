@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ .container{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    background-color: rgb(47, 169, 171);
+    flex-direction: column;
+    text-align: center;
+}
+
+#inp1{
+    border-radius: 5px;
+    border: none;
+   height: 20px;
+   
+}
+#inp2{
+    border-radius: 5px;
+    border: none;
+    height: 20px;
+}
+.login{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    height: 25px;
+}
+
+
